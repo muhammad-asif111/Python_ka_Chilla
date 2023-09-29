@@ -1,0 +1,10 @@
+print("Hello World")
+print(4+5)
+
+print("السلام وعلیکم ورحمتہ اللہ وبراکاتہ اللہ جلہ شانہ")
+print("Hope your Governence is being very well")
+print("You are the Greatest ALLAH of the World")
+print("Blessed every Person on every day")
+print("1+1 : 11")
+print(3+3-3*3/3)
+print(3+3-3*(3/3))
